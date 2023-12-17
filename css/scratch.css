@@ -1,0 +1,57 @@
+body {
+    background-image: url(https://th.bing.com/th/id/R.b35a253c81964d056c3053b36ae223ea?rik=FNc7k65CuMBPFA&riu=http%3a%2f%2f4.bp.blogspot.com%2f-sMZKgoZsqkU%2fUs1G4Xe1r-I%2fAAAAAAAANLM%2f4f1rwRR2nZ4%2fs1600%2fSeamless_Wood_Parquet_Texture.jpg&ehk=tg%2bpAlMjhCf4X0CywF0eGeYzTH84pE7DKV1%2fZUMfcgU%3d&risl=&pid=ImgRaw&r=0);
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+img {
+    border: 2px solid white;
+    padding: 2px;
+    width: 25%;
+}
+
+.sour{
+    color: white;
+    font-size: xx-large;
+}
+
+h1{
+    color: white;
+}
+
+.centerme {
+    display: block;
+    margin: auto;
+}
+
+a {
+    color: white;
+}
+
+ol {
+    background-color: rgba(255, 255, 255, 0.74);
+}
+
+.common {
+    position: absolute;
+}
+
+.footer {
+    z-index: 1;
+    position: fixed;
+    bottom: 0px;
+    right: 10px;
+    display: block;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.648);
+}
+
+.header {
+    top: 0px;
+}
+
+.mainbody {
+    top: 215px;
+}
